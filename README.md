@@ -16,7 +16,7 @@ These Icon-packs were not made by me, nor am I affiliated with 2013Windows8.1. T
 
 ## 2013Windows8.1's Socials
 
-Youtube: https://www.youtube.com/@2013Windows81/videos
-Github: https://github.com/2013Windows81
-Pastebin: https://pastebin.com/u/2013Windows8
+- Youtube: https://www.youtube.com/@2013Windows81/videos
+- Github: https://github.com/2013Windows81
+- Pastebin: https://pastebin.com/u/2013Windows8
 
