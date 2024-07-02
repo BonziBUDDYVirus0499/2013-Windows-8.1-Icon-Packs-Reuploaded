@@ -19,6 +19,7 @@ These Icon-packs were not made by me, nor am I affiliated with 2013Windows8.1. T
 - Youtube: https://www.youtube.com/@2013Windows81/videos
 - Instagram: https://www.instagram.com/2013windows8.1/
 - Twitter/X: https://x.com/Win8B8642
+- Discord Server: https://discord.com/invite/bSvbJ5T
 - Github: https://github.com/2013Windows81
 - Pastebin: https://pastebin.com/u/2013Windows8
 
