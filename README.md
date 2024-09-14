@@ -6,7 +6,6 @@ This repository contains all the Icon-packs that were created by 2013Windows8.1.
 
 - Windows 10 Icon-pack
 - Windows XP Icon-pack
-- Windows 8.1 Icon-pack
 - Windows 7 Icon-pack
 - Windows 9x (Classic) Icon-pack
 
